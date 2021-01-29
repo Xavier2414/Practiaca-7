@@ -1,12 +1,16 @@
 body{
 
-  background: linear-gradient(to right, #00aaff, #00ff6c);
+background: #212F3D;
+}
+h1{
+  color: white;
+  text-align: center;
 }
 .calculadora{
     display:block;
     margin:0 auto;
     padding:20px;
-    background-color:#97b0c0;
+    background-color:#34495E;
     width:350px;
     height:550px;
     
@@ -16,7 +20,10 @@ body{
     width:70px;
     height: 70px;
     font-size: 25px;
-    background-color: rgb(255, 255, 255);
+    background-color: #641E16;
+    outline: none;
+    border: none;
+    color: white;
   }
   #resultado{
     display:block;
@@ -26,7 +33,7 @@ body{
     width:300px;
     height: 100px;
     line-height: 100px;
-    background-color:#fff;
+    background-color:white;
     border-radius: 25px;
     overflow-y: scroll;
   }
