@@ -32,3 +32,13 @@ button{
     box-shadow: 0 0 0 7px var(--light) inset;
     margin-bottom: 10px;
 }
+button:hover{
+    color: rgba(255, 255, 255, 1) !important;
+    box-shadow: 0 4px 4px rgba(49, 138, 172, 1);
+    transition: all 0.2s ease;
+}
+
+.count{
+    position: relative;
+    top: 8px;
+}
