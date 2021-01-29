@@ -3,12 +3,12 @@
 }
 
 :root {
-  --background: #E5FFB3;
-  --background-accent: #DBF8A3;
-  --background-accent-2: #BDE66E;
-  --light: #92DE34;
-  --dark: #69BC22;
-  --text: #025600;
+  --background: #212F3D;
+  --background-accent:#1B2631;
+  --background-accent-2: #17202A;
+  --light: #641E16;
+  --dark: #C0392B;
+  --text: White;
 }
 
 body {
